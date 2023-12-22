@@ -3291,9 +3291,6 @@ url = "https://github.com/jejemerong/triality"
 url = "https://github.com/JejomStark/SymbOnStark"
 
 [[repo]]
-url = "https://github.com/JejomStark/ShellOnStark"
-
-[[repo]]
 url = "https://github.com/jeremyjams/ZeroKnowledge"
 
 [[repo]]
@@ -4658,10 +4655,25 @@ url = "https://github.com/nelsonlai-demo-poc/starknet-hardhat-erc721"
 url = "https://github.com/nestorbonilla/starknet-accounts-cairo-1"
 
 [[repo]]
+url = "https://github.com/NethermindEth/0to1CairoDemo"
+
+[[repo]]
+url = "https://github.com/NethermindEth/starknet-state-verifier"
+
+[[repo]]
+url = "https://github.com/NethermindEth/cairo-vm-go"
+
+[[repo]]
+url = "https://github.com/NethermindEth/cairo-property-tester"
+
+[[repo]]
 url = "https://github.com/NethermindEth/circomlibjs"
 
 [[repo]]
 url = "https://github.com/NethermindEth/horus-compile"
+
+[[repo]]
+url = "https://github.com/NethermindEth/horus-checker"
 
 [[repo]]
 url = "https://github.com/NethermindEth/juno"
@@ -4670,10 +4682,19 @@ url = "https://github.com/NethermindEth/juno"
 url = "https://github.com/NethermindEth/sign-in-with-starknet"
 
 [[repo]]
+url = "https://github.com/NethermindEth/starknet-abi-form"
+
+[[repo]]
+https://github.com/NethermindEth/starknet-proposals-whisperer
+
+[[repo]]
 url = "https://github.com/NethermindEth/starknet-remix-plugin"
 
 [[repo]]
 url = "https://github.com/NethermindEth/starknet-state-verifier"
+
+[[repo]]
+url = "https://github.com/NethermindEth/starknet.go"
 
 [[repo]]
 url = "https://github.com/NethermindEth/starknet.unity"
@@ -4682,10 +4703,46 @@ url = "https://github.com/NethermindEth/starknet.unity"
 url = "https://github.com/NethermindEth/StarknetByExample"
 
 [[repo]]
+url = "https://github.com/NethermindEth/UniStark"
+
+[[repo]]
 url = "https://github.com/NethermindEth/unistark-v3-periphery"
 
 [[repo]]
+url = "https://github.com/NethermindEth/voyager-translations"
+
+[[repo]]
+url = "https://github.com/NethermindEth/voyager-verify"
+
+[[repo]]
 url = "https://github.com/NethermindEth/warp"
+
+[[repo]]
+url = "https://github.com/NethermindEth/warp-ts-benchmark"
+
+[[repo]]
+url = "https://github.com/NethermindEth/warping-contracts"
+
+[[repo]]
+url = "https://github.com/NethermindEth/warp-plugin"
+
+[[repo]]
+url = "https://github.com/NethermindEth/warp-test-box"
+
+[[repo]]
+url = "https://github.com/NethermindEth/warp-benchmark"
+
+[[repo]]
+url = "https://github.com/NethermindEth/hardhat-warp"
+
+[[repo]]
+url = "https://github.com/NethermindEth/hardhat-warp-template"
+
+[[repo]]
+url = "https://github.com/NethermindEth/unistark-interface"
+
+[[repo]]
+url = "https://github.com/NethermindEth/unistark-swap-router-contracts"
 
 [[repo]]
 url = "https://github.com/neumoxx/aave-starknet-bridge"
@@ -5133,9 +5190,6 @@ url = "https://github.com/ProjectKepler1/imx-starknet"
 
 [[repo]]
 url = "https://github.com/ProNodes11/Starknet-checker"
-
-[[repo]]
-url = "https://github.com/Prop-House/prop-house-monorepo"
 
 [[repo]]
 url = "https://github.com/Prop-House/starknet-relayer"
